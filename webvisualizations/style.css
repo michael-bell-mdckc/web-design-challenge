@@ -1,0 +1,52 @@
+html {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: lightgray;
+      }
+
+      body {
+        padding: 10px;
+        margin: 10px;
+      }
+
+      h1 {
+        color: #007bff;
+      }
+
+      h2 {
+        color: #007bff;
+      }
+
+      img {
+        float: left;
+      }
+
+      table,
+      thead,
+      tr,
+      tbody,
+      th,
+      td {
+        text-align: center;
+      }
+
+      .thumbnail img {
+        max-height: 100%;
+        max-width: 100%;
+      }
+
+      #button_color {
+        color: white;
+      }
+
+      #box_background {
+        background-color: #f8f9fa;
+      }
+
+      #padding_img {
+        padding: 15px;
+      }
+
+      #foot {
+        float: none;
+        display: block;
+      }
