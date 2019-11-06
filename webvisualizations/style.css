@@ -3,50 +3,50 @@ html {
         background-color: lightgray;
       }
 
-      body {
-        padding: 10px;
-        margin: 10px;
-      }
+body {
+  padding: 10px;
+  margin: 10px;
+}
 
-      h1 {
-        color: #007bff;
-      }
+h1 {
+  color: #007bff;
+}
 
-      h2 {
-        color: #007bff;
-      }
+h2 {
+  color: #007bff;
+}
 
-      img {
-        float: left;
-      }
+img {
+  float: left;
+}
 
-      table,
-      thead,
-      tr,
-      tbody,
-      th,
-      td {
-        text-align: center;
-      }
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+}
 
-      .thumbnail img {
-        max-height: 100%;
-        max-width: 100%;
-      }
+.thumbnail img {
+  max-height: 100%;
+  max-width: 100%;
+}
 
-      #button_color {
-        color: white;
-      }
+#button_color {
+  color: white;
+}
 
-      #box_background {
-        background-color: #f8f9fa;
-      }
+#box_background {
+  background-color: #f8f9fa;
+}
 
-      #padding_img {
-        padding: 15px;
-      }
+#padding_img {
+  padding: 15px;
+}
 
-      #foot {
-        float: none;
-        display: block;
-      }
+#foot {
+  float: none;
+  display: block;
+}
